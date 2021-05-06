@@ -1,0 +1,1 @@
+{"uuid":"71550130-c7a2-4684-bac2-2e69ed745da7","name":"test-ui-testng","children":["1de1a677-2825-4d74-b63e-80cc9d1bc0a5"],"befores":[{"name":"inits","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1620294139968,"stop":1620294145768}],"afters":[],"links":[],"start":1620294139932,"stop":1620294150935}
